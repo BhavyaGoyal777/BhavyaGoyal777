@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BHAVYA GOYAL</h1>
-<h3 align="center">I LOVE DEEP LEARNING</h3>
+<h3 align="center">I LOVE NEURAL NETWORKS</h3>
 
 ---
 
