@@ -5,7 +5,7 @@
 
 - I’m currently working on **implementing research papers from scratch**
 - Ask me about **Large Language Models (LLMs)**
-- Currently exploring **DEEP GENERATIVE MODELS**
+- Currently exploring **DEEP GENERATIVE MODELS/ML IN PRODUCTION**
 - Deeply interested in **LLMs and Multimodality**
 
 ---
